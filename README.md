@@ -1,4 +1,4 @@
-<h1>Привет Авито!</h1>
+<h1>Привет!</h1>
     <h3>Для запуска приложения:</h3>
     <ul>
         <li>Введите в вашей IDE: <strong>"git clone https://github.com/avito-tech/react-app-feed.git"</strong></li>
