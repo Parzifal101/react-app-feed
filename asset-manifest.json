@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/avito-app/static/css/main.e530eb09.css",
+    "main.js": "/avito-app/static/js/main.47a3d894.js",
+    "static/media/avito.jpg": "/avito-app/static/media/avito.eb00cfb317fc5ce7e3ab.jpg",
+    "index.html": "/avito-app/index.html",
+    "main.e530eb09.css.map": "/avito-app/static/css/main.e530eb09.css.map",
+    "main.47a3d894.js.map": "/avito-app/static/js/main.47a3d894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e530eb09.css",
+    "static/js/main.47a3d894.js"
+  ]
+}
